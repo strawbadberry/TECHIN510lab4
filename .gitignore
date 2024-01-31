@@ -63,3 +63,5 @@ reports/
 *.iml
 *.suo
 .project
+venv
+.venv
